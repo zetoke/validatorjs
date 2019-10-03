@@ -38,7 +38,7 @@
     "laravel-validator-for-js"
   ],
   "dependencies": {
-    "date-fns": "2.0.1"
+    "date-fns": "2.4.1"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
